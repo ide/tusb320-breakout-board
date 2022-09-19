@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# KiCad
+*.kicad_prl
+fp-info-cache
+/tusb320-breakout-board-backups/
