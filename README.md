@@ -2,6 +2,8 @@
 
 This PCB is a breakout board for the Texas Instruments TUSB320 chip and a USB-C connector (16+8 dummy pins).
 
+<img src="board-preview.png" width="644" height="227">
+
 ## Features
 
 - Headers for each pin of the TUSB320 chip and USB-C connector
